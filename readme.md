@@ -1,4 +1,4 @@
-## Welcome, neighbor! I'm Prahlad. 🖖
+## Hello, friend! I'm Prahlad. 👋
 
 ---
 
