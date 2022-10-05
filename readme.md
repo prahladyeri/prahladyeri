@@ -7,8 +7,6 @@
 [<img align="left" alt="prahladyeri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/prahladyeri14)
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prahladyeri.prahladyeri)
-
 Hello, I am Prahlad Yeri, Freelance Programmer and Writer.
 
 Educate and solve problems is my mantra and I'm here to provide you IT solutions💻. I work on Web Development and Desktop Development projects.
