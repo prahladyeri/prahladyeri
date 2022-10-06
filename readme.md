@@ -14,3 +14,9 @@ Educate and solve problems is my mantra and I'm here to provide you IT solutions
 I work on Web and Desktop Development projects. My technology stack typically includes PHP, CodeIgniter, Python, Flask, JavaScript, jquery, Bootstrap, C#/WinForms, etc.
 
 For more information, visit my [weblog](https://prahladyeri.com).
+
+---
+
+![Prahlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=prahladyeri&count_private=true&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prahladyeri&hide=smalltalk,cpp&langs_count=8&layout=compact&theme=dark)
