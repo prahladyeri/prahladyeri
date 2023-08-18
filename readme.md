@@ -6,7 +6,9 @@
 <!-- [<img align="left" alt="prahladyeri | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/prahladyeri) -->
 [<img align="left" alt="prahladyeri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/prahladyeri14)
 <br/>
-
+[![patreon](https://img.shields.io/badge/Patreon-brown.svg?logo=patreon)](https://www.patreon.com/prahladyeri)
+[![paypal](https://img.shields.io/badge/PayPal-blue.svg?logo=paypal)](https://paypal.me/prahladyeri)
+<br/>
 
 Hello, I am Prahlad Yeri, Freelance Programmer and Writer.
 
