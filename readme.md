@@ -4,10 +4,12 @@
 [<img align="left" alt="prahladyeri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prahlad-yeri-243a5316)
 [<img align="left" alt="prahladyeri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/prahladyeri)
 <!-- [<img align="left" alt="prahladyeri | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/prahladyeri) -->
+[<img align="left" alt="prahladyeri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://mastodon.social/@prahladyeri)
 [<img align="left" alt="prahladyeri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/prahladyeri14)
 <br/><br/>
 <img src="https://img.shields.io/badge/PayPal-blue?logo=paypal" height="38" />
 <img src="https://img.shields.io/badge/Patreon-brown?logo=patreon" height="38" />
+<a style="display:none" rel="me" href="https://mastodon.social/@prahladyeri">Mastodon</a>
 <br/>
 
 Hello, I am Prahlad Yeri, Freelance Programmer and Writer.
