@@ -9,7 +9,9 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/PayPal-blue?logo=paypal" height="38" />
 <img src="https://img.shields.io/badge/Patreon-brown?logo=patreon" height="38" />
+#### hidden field with metadata 👇
 <a style="visibility:hidden" rel="me" href="https://mastodon.social/@prahladyeri">Mastodon</a>
+#### hidden field with metadata 👆
 <br/>
 
 Hello, I am Prahlad Yeri, Freelance Programmer and Writer.
