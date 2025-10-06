@@ -1,7 +1,7 @@
 # Prahlad's profile
 
 [<img align="left" alt="prahladyeri | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:prahladyeri@yahoo.com)
-[<img align="left" alt="prahladyeri | BlueSky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluesky.svg" />](https://bsky.app/profile/prahladyeri.bsky.social)
+[<img align="left" alt="prahladyeri | BlueSky" width="22px" src="https://unpkg.com/simple-icons@15.16.1/icons/bluesky.svg" />](https://bsky.app/profile/prahladyeri.bsky.social)
 [<img align="left" alt="prahladyeri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/prahladyeri)
 [<img align="left" alt="prahladyeri | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/pyeri)
 [<img align="left" alt="prahladyeri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />](https://mastodon.social/@prahladyeri)
